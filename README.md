@@ -23,6 +23,8 @@ The frontend displays employees in a responsive list and uses route-based forms 
 - Angular 22
 - RxJS
 - Tailwind CSS for styling
+- Swagger for API documentation
+- Postman for API testing
 
 ## Folder structure
 
@@ -61,6 +63,47 @@ The frontend displays employees in a responsive list and uses route-based forms 
 
 Repository name: `employee-management-system-dotnet-angular`
 
----
+## API Endpoints
 
-If you want, I can also add a separate `README` section for the API endpoints and sample requests.
+The backend exposes the following `Employee` API endpoints:
+
+- `GET /api/Employee`
+  - Returns the list of all employees.
+- `GET /api/Employee/{id}`
+  - Returns a single employee by ID.
+- `POST /api/Employee`
+  - Creates a new employee.
+- `PUT /api/Employee/{id}`
+  - Updates an existing employee.
+- `DELETE /api/Employee/{id}`
+  - Deletes an employee.
+
+### Sample request bodies
+
+#### Create employee
+
+```json
+{
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "dob": "1990-05-20",
+  "department": "HR",
+  "salary": 65000
+}
+```
+
+#### Update employee
+
+```json
+{
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "dob": "1990-05-20",
+  "department": "Human Resources",
+  "salary": 68000
+}
+```
+
+> Note: The `POST` and `PUT` endpoints use the same request shape, but `PUT` requires the employee ID in the URL.
+
+---
