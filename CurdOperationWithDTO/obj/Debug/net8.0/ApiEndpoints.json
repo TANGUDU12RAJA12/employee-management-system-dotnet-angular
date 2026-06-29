@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.EmployeeController",
+    "Method": "Add",
+    "RelativePath": "api/Employee/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeRequest",
+        "Type": "CurdOperationWithDTO.DTO.Request.EmployeeRequestAddDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employee/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.EmployeeController",
+    "Method": "GetById",
+    "RelativePath": "api/Employee/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.EmployeeController",
+    "Method": "Update",
+    "RelativePath": "api/Employee/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeRequest",
+        "Type": "CurdOperationWithDTO.DTO.Request.EmployeeRequestUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CurdOperationWithDTO.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CurdOperationWithDTO.WeatherForecast, CurdOperationWithDTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

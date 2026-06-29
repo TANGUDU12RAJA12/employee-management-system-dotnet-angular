@@ -1,0 +1,6 @@
+@CurdOperationWithDTO_HostAddress = http://localhost:5240
+
+GET {{CurdOperationWithDTO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

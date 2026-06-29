@@ -1,0 +1,65 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+/bin/
+/obj/
+
+# .NET Core
+/*.dbmdl
+/*.jfm
+*.pdb
+*.publish.xml
+*.cache
+*.ilk
+*.meta
+*.obj
+*.log
+*.vspscc
+*.vssscc
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# npm / Angular
+employee/node_modules/
+employee/.angular/
+employee/dist/
+employee/.cache/
+
+# Angular environment files
+employee/src/environments/*.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# JetBrains
+*.iml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Optional: ignore local user files
+*.user
+*.suo
+*.userprefs

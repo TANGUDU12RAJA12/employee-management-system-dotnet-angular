@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\services\\employessservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\services\\employessservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\dto\\response\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\dto\\response\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\automapper\\employeemapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\automapper\\employeemapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\dto\\request\\employeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\dto\\request\\employeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\curdoperationwithdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\curdoperationwithdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\curdoperationwithdto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\curdoperationwithdto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|c:\\users\\tangu\\documents\\dot_net_core\\curdoperationwithdto\\curdoperationwithdto\\migrations\\20260520114306_add_employee_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB785A-C53F-CE41-FC72-9A8203C4352B}|CurdOperationWithDTO\\CurdOperationWithDTO.csproj|solutionrelative:curdoperationwithdto\\migrations\\20260520114306_add_employee_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\DTO\\Response\\EmployeeResponseDTO.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\DTO\\Response\\EmployeeResponseDTO.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\DTO\\Response\\EmployeeResponseDTO.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\DTO\\Response\\EmployeeResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:54:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Program.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Program.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Program.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:15:45.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:59:18.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CurdOperationWithDTO\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-26T07:23:29.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\appsettings.json",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\appsettings.json",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\appsettings.json",
+              "RelativeToolTip": "CurdOperationWithDTO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-19T09:56:39.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\AutoMapper\\EmployeeMapperProfile.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\AutoMapper\\EmployeeMapperProfile.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\AutoMapper\\EmployeeMapperProfile.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\AutoMapper\\EmployeeMapperProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:57:08.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:26:01.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployessServices.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Services\\EmployessServices.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Services\\EmployessServices.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Services\\EmployessServices.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Services\\EmployessServices.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:42:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260520114306_Add_Employee_Table.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Migrations\\20260520114306_Add_Employee_Table.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Migrations\\20260520114306_Add_Employee_Table.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Migrations\\20260520114306_Add_Employee_Table.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Migrations\\20260520114306_Add_Employee_Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:43:06.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\DTO\\Request\\EmployeeRequestDTO.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\DTO\\Request\\EmployeeRequestDTO.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\DTO\\Request\\EmployeeRequestDTO.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\DTO\\Request\\EmployeeRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:48:01.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurdOperationWithDTO.http",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\CurdOperationWithDTO.http",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\CurdOperationWithDTO.http",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\CurdOperationWithDTO.http",
+              "RelativeToolTip": "CurdOperationWithDTO\\CurdOperationWithDTO.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-19T10:08:41.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\ApplicationDBcontext.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\ApplicationDBcontext.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\ApplicationDBcontext.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\ApplicationDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:04:20.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\Model\\Employee.cs",
+              "RelativeToolTip": "CurdOperationWithDTO\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:01:13.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurdOperationWithDTO.csproj",
+              "DocumentMoniker": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\CurdOperationWithDTO.csproj",
+              "RelativeDocumentMoniker": "CurdOperationWithDTO\\CurdOperationWithDTO.csproj",
+              "ToolTip": "C:\\Users\\tangu\\Documents\\DOT_Net_Core\\CurdOperationWithDTO\\CurdOperationWithDTO\\CurdOperationWithDTO.csproj",
+              "RelativeToolTip": "CurdOperationWithDTO\\CurdOperationWithDTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T09:20:36.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
